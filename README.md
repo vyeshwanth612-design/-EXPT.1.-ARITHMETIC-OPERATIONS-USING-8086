@@ -76,6 +76,9 @@ END
 
 ## FLOWCHART
 
+<img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
+
+
 #### Program
 ```asm
 CODE SEGMENT
@@ -105,7 +108,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+
 
 ---
 
@@ -125,6 +128,8 @@ END
 4. Store result.
 
 ##FLOWCHART
+
+<img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
 
 #### Program
 
@@ -167,7 +172,9 @@ END
 2. Perform division.
 3. Store result.
 
-   ## FLOWCHART
+## FLOWCHART
+<img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
+
 
 #### Program
 
